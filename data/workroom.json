@@ -1,0 +1,17 @@
+{
+    "players": [
+        {
+            "minutesPlayed": 45.7,
+            "name": "Bukayo Saka",
+            "team": "Arsenal",
+            "goalsScored": 100
+        },
+        {
+            "minutesPlayed": 44.5,
+            "name": "Erling Haaland",
+            "team": "Arsenal",
+            "goalsScored": 99
+        }
+    ],
+    "name": "Test"
+}
